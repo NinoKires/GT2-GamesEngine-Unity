@@ -1,3 +1,4 @@
 # GT2-GamesEngine-Unity
 
-# Abgabe für GamesEngines WS1819
+Unity Abgabe für GamesEngines WS1819
+Space Shooter mit PowerUps 
