@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="400" height="300" src="1.png">
+</p>
+
 # GT2-GamesEngine-Unity
 
 Unity Abgabe für GamesEngines WS1819
